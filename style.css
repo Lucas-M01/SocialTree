@@ -17,6 +17,10 @@
 
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;600&display=swap');
 
+/*----- RESPONSIVE -----*/
+
+
+
 /*----- BODY -----*/
 
 body {
@@ -29,7 +33,7 @@ body {
 /*----- CONTAINER -----*/
 
 #container {
-    width: 980px;
+    width: 61.25em;
     margin: 0 auto;
 
     position: relative;
@@ -37,29 +41,29 @@ body {
 
 #profile {
     position: absolute;
-    width: 200px;
-    height: 200px;
-    left: 450px;
-    top: 110px;
+    width: 12.5em;
+    height: 12.5em;
+    left: 28.12em;
+    top: 6.8em;
 }
 
 
 #icon {
     position: absolute;
-    width: 236px;
-    height: 24px;
-    left: 460px;
-    top: 615px;
+    width: 14.7em;
+    height: 1.5em;
+    left: 28.7em;
+    top: 38.4em;
 
     display: flex;
 }
 
 #IG {
     position: absolute;
-    width: 99px;
-    height: 24px;
-    left: 500px;
-    top: 323px;
+    width: 6.2em;
+    height: 1.5em;
+    left: 31.3em;
+    top: 20.2em;
 
     font-family: 'Poppins', sans-serif;
     font-style: normal;
@@ -74,8 +78,8 @@ body {
 /*----- CONTENT -----*/
 
 #img {
-    width: 200px;
-    height: 200px;
+    width: 12.5em;
+    height: 12.5em;
     margin: 6px 6px 7px 7px;
     border-radius: 50%;
     border: 3px solid #BB99DD;
@@ -84,8 +88,8 @@ body {
 }
 
 .img {
-    width: 24px;
-    height: 24px;
+    width: 1.5em;
+    height: 1.5em;
     margin: 6px 6px 7px 7px;
     
     padding: 3px;
@@ -93,8 +97,8 @@ body {
 
 nav {
     position: absolute;
-    width: 350px;
-    top: 380px;
+    width: 21.5em;
+    top: 24.4em;
 }
 
 ul {
@@ -111,10 +115,10 @@ li {
 
 a {
     position: absolute;
-    width: 326px;
-    height: 49px;
-    left: 392px;
-    padding-top: 10px;
+    width: 20.2em;
+    height: 3.1em;
+    left: 24.5em;
+    padding-top: 0.6em;
 
     font-family: 'Poppins', sans-serif;
     font-style: normal;
